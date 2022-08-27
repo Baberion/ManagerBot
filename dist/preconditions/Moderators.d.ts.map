@@ -1,0 +1,1 @@
+{"version":3,"file":"Moderators.d.ts","sourceRoot":"","sources":["../../src/preconditions/Moderators.ts"],"names":[],"mappings":"AAAA,OAAO,EAAC,YAAY,EAAC,MAAM,qBAAqB,CAAC;AACjD,OAAO,KAAK,EAAC,OAAO,EAAC,MAAM,YAAY,CAAC;AAExC,qBAAa,gBAAiB,SAAQ,YAAY;IACjC,GAAG,CAAC,OAAO,EAAE,OAAO;CASpC;AACD,OAAO,QAAQ,qBAAqB,CAAC;IACjC,UAAU,aAAa;QACnB,UAAU,EAAE,KAAK,CAAC;KACrB;CACJ"}

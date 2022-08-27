@@ -1,0 +1,1 @@
+{"version":3,"file":"eval.d.ts","sourceRoot":"","sources":["../../../src/commands/General/eval.ts"],"names":[],"mappings":"AACA,OAAO,EAAE,IAAI,EAAE,OAAO,EAAkB,MAAM,qBAAqB,CAAC;AAIpE,OAAO,KAAK,EAAE,OAAO,EAAE,MAAM,YAAY,CAAC;AAG1C,qBAQa,WAAY,SAAQ,OAAO;IAC1B,UAAU,CAAC,OAAO,EAAE,OAAO,EAAE,IAAI,EAAE,IAAI;YAwBtC,IAAI;CAiClB"}

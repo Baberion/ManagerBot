@@ -1,0 +1,1 @@
+{"version":3,"file":"paginated-message.d.ts","sourceRoot":"","sources":["../../../src/commands/General/paginated-message.ts"],"names":[],"mappings":"AAEA,OAAO,EAAE,OAAO,EAAkB,MAAM,qBAAqB,CAAC;AAC9D,OAAO,KAAK,EAAE,OAAO,EAAE,MAAM,YAAY,CAAC;AAI1C,qBAKa,WAAY,SAAQ,OAAO;IAC1B,UAAU,CAAC,OAAO,EAAE,OAAO;CAyBxC"}
