@@ -3,7 +3,7 @@ var _a;
 Object.defineProperty(exports, "__esModule", { value: true });
 const tslib_1 = require("tslib");
 // Unless explicitly defined, set NODE_ENV as development:
-(_a = process.env).NODE_ENV ??= (_a.NODE_ENV = 'development');
+(_a = process.env).NODE_ENV ?? (_a.NODE_ENV = 'development');
 require("reflect-metadata");
 require("@sapphire/plugin-logger/register");
 require("@sapphire/plugin-api/register");
